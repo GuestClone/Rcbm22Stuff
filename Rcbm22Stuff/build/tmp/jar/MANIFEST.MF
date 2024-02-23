@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Rcbm22Stuff
+Implementation-Version: 1.0.0.0
+Specification-Vendor: examplemodsareus
+Specification-Title: rcbm22stuff
+Implementation-Timestamp: 2024-02-23T10:26:56+0800
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
